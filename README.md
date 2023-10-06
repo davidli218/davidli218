@@ -1,14 +1,20 @@
 ## Hi there, I'm Teii.<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+Currently an undergraduate student in Electronic and Electrical Engineering.
 
-
-### Languages and Tools:
+### Languages & Tools:
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
-<code><img height="20" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg"></code>
  | 
-<code><img height="20" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></code>
-<code><img height="20" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"></code>
 
 ---
 
