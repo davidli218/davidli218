@@ -11,13 +11,15 @@ Languages:
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg"></code>
 
-Data Science and Engineering:
+Embedded Systems / Data Science:
 
+<code><img height="20" src="https://www.freertos.org/favicon-32x32.png"></code>
+<code><img height="20" src="https://lvgl.io/favicon.ico"></code>
+<code><img height="20" src="https://docs.espressif.com/favicon.ico"></code>
+ |
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg"></code>
 
 Backend and Frontend:
 
